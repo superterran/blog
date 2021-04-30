@@ -24,6 +24,17 @@ The front-matter problem also had me take a long-hard look at what I'm tracking,
 
 In other parts of my life, I've started using [Mark Text](https://marktext.app/) as a general-purpose note taking app, where my ~/Documents directory just has directories-upon-directories of markdown files. This is easy to maintain, it's great. So with this, I've cloned `superterran/blog` to ~/Documents, and I added a script `~/bin/publish` that commits the contents and pushes it up.
 
+
+
+```bash
+#!/bin/bash
+cd ~/Documents/Blog
+git pull
+git add .
+git commit -m "publish command ran on $(whoami)@$(hostname) on $(date)"
+git push
+```
+
 # Conclusion
 
 So far, I think it's great. The builds are super-fast, the content is well separated from the app, the hosting is free, and everything is built around markdown. What's not to like? If you want to learn more or check under the hood, check it out on [GitHub](https://github.com/superterran/superterran.github.io)!
