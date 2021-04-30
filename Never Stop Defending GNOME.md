@@ -4,4 +4,4 @@ I'm also getting a lot of use out of [Blur My Shell](https://extensions.gnome.or
 
 The overviews interface is clearly the biggest improvement, but I also like the new power management profiles they have baked into the settings menu, and finally being able to organize the apps menu is nice as well. In all, GNOME seems to be tracking well with Mac OS releases and they have currently caught us to OS X Lion. 
 
-This is a great release, but still - would it kill the GNOME team to introduce some concept of translucent blur! 
+This is a great release, but still - would it kill the GNOME team to introduce some translucent blur! 
