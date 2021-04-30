@@ -12,3 +12,4 @@ jobs:
         with:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
           event-type: trigger-build
+          repository: superterran/superterran.github.io
