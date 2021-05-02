@@ -3,3 +3,5 @@ The quarantine has turned me into a budding video game collector, and  one devic
 One thing to know is that you can use the controllers to change the input mode in the usb device. Retrofreak, for example, needs `left+select`, but the PS One Classic uses `down+select`. There's other variations too,
 
 One issue I ran into is that the NES controller stopped working when I updated to the new firmwares, as it stands now I need to run v1.32 for the NES joycons. They seem on it though, they already sent me a beta firmware trying to sort it out.
+
+
