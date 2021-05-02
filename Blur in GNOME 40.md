@@ -1,6 +1,6 @@
----
+
+
 It's like a water-shed moment over at the GNOME extensions site as a few blurring modules are finally starting to surface. r/unixporn is on fire with screenshots. So let's so do a little something for the kids. Let's blur our shells...
----
 
 Of all the themes I've seen come through so far, this one seems like the most interesting. 
 
